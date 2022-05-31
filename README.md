@@ -16,7 +16,7 @@
   
 </div>
   
-![](https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966)
+![](https://i0.wp.com/otakubfx.com.br/wp-content/uploads/2016/07/como-criar-gif-de-animes-3.gif?resize=993%2C530&ssl=1)
   
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
