@@ -16,7 +16,7 @@
   
 </div>
   
-![Github](https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47sahlvy3vlk7bvw68y6clqi5qf67dsfm6v55o9c1q&rid=giphy.gif&ct=g)
+![](https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47sahlvy3vlk7bvw68y6clqi5qf67dsfm6v55o9c1q&rid=giphy.gif)
   
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
