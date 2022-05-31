@@ -15,9 +15,10 @@
 
   
 </div>
-<p align="center">
+
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
-</p>
+
+
 
 <div align="center">
   
@@ -32,7 +33,7 @@
   
   
   
-<a href="https://www.twitch.tv/suilsz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/thegodsuil" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
   
   
