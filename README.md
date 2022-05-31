@@ -16,7 +16,7 @@
   
 </div>
   
-![](https://c.tenor.com/GWRAIof-qIYAAAAC/mozu-vpn.gif)
+![]()
   
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
