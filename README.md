@@ -11,9 +11,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssuilszV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   <br/>
-![Snake animation](https://github.com/ssuilszV/ssuilszV/blob/output/github-contribution-grid-snake.svg)
+  
+  
   
 </div>
+  
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 
 <div>
