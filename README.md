@@ -16,7 +16,7 @@
   
 </div>
   
-<img src="http://pa1.narvii.com/7423/364cb4ff0bfaaec3bb4d2d546fc085f4a2f6a10dr1-500-280_00.gif"/>
+![](http://pa1.narvii.com/7423/364cb4ff0bfaaec3bb4d2d546fc085f4a2f6a10dr1-500-280_00.gif)
   
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
