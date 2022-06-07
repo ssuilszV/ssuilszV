@@ -19,12 +19,12 @@
   <div align="center">
 
 <img height="1500em" src="https://github.com/ssuilszV/ssuilszV/blob/main/sword.gif"/>
-![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
+<!--I dont Speak macaco-->
 <div align="center">
   
+  ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
     
 <a href="https://www.youtube.com/channel/UCguvBDAyHYuAgLHeGXuynsA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" ></a>
