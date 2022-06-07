@@ -16,7 +16,7 @@
   
 </div>
 
-![Sword GIF](https://github.com/ssuilszV/ssuilszV/blob/main/sword.gif?raw=true)
+![Sword GIF](https://github.com/ssuilszV/ssuilszV/blob/main/sword.gif)
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
 
