@@ -1,10 +1,11 @@
-# bad.
+<h1 align="center">༺ sslzV ៚</h1>
+<div align="center">
 ❤  SaraG <br />
 🎮 CS:GO/Valorant <br />
 💻 HTML-CSS-JS-PHP-LARAVEL(DB) <br />
 ✎ Suil | Facile | Louis V | ssuilszV <br />
 👤 Luis Henrique Batista Caixeta <br />
-
+</div>
 <div align="center">
 <a href="https://github.com/ssuilszV">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuilszV&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,12 +17,7 @@
   
 </div>
   
-<div align="center">
 
-<img height="1500em" src="https://github.com/ssuilszV/ssuilszV/blob/main/sword.gif" />
-
-</div>
-  
 <!--I dont Speak macaco-->
 ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
