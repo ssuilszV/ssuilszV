@@ -1,5 +1,5 @@
 <h1 align="center">༺ sslzV ៚</h1>
-<div align="center">
+<div align="left">
 ❤  SaraG <br />
 🎮 CS:GO/Valorant <br />
 💻 HTML-CSS-JS-PHP-LARAVEL(DB) <br />
