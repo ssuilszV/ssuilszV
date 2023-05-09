@@ -2,7 +2,7 @@
 <div align="left">
 ❤  SaraG <br />
 🎮 CS:GO/Valorant <br />
-💻 HTML-CSS-JS-PHP-LARAVEL(DB) <br />
+💻 BackEnd. <br />
 ✎ Suil | Facile | Louis V | ssuilszV <br />
 👤 Luis Henrique Batista Caixeta <br />
 </div>
