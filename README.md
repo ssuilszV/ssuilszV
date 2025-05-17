@@ -1,10 +1,6 @@
 <h1 align="center">༺ sslzV ៚</h1>
-<div align="left">
-❤  SaraG <br />
-🎮 CS:GO/Valorant <br />
-💻 BackEnd. <br />
-✎ Suil | Facile | Louis V | ssuilszV <br />
-👤 Luis Henrique Batista Caixeta <br />
+<div align="left"> <br />
+👤 Luis Henrique <br />
 </div>
 <div align="center">
 <a href="https://github.com/ssuilszV">
